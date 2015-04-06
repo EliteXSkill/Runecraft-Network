@@ -1,0 +1,12 @@
+name: Runecraft
+version: 1.0
+description: Official Runecraft plugin.
+author: Synapz_
+main: me.synapz.runecraft.Runecraft
+database: false
+depend: [TitleAPI]
+
+commands:
+  announce:
+    description: Broadcast a message using TitleAPI.
+    aliases: [an]
