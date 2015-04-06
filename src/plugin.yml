@@ -1,7 +1,7 @@
 name: Runecraft
 version: 1.0
 description: Official Runecraft plugin.
-author: Synapz_
+author: Synapz_, EliteXSkill
 main: me.synapz.runecraft.Runecraft
 database: false
 depend: [TitleAPI]
